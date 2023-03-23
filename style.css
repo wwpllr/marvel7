@@ -1,0 +1,61 @@
+body {
+    background-color: darksalmon;
+}
+
+h1 {
+    color: red;
+    font-size: 40px;
+    text-align: center;
+    text-shadow: red 0.1em 0.01em 0.1em ;
+}
+
+li{
+    font-size: 22px;
+}
+
+.text-1{
+color: blue;
+}
+.text-2{
+    color: red;
+}
+.text-3{
+    color: green;
+}
+.text-4{
+    color: blueviolet;
+}
+
+.photo-1{
+    width: 500px ;
+    height: 200px;
+    margin-left: 490px;
+}
+
+.read-1{
+    font-size: 22px;
+}
+.read-2{
+    font-size: 22px;
+}
+.read-3{
+    font-size: 22px;
+}
+.read-4{
+    font-size: 22px;
+}
+.read-5{
+    font-size: 22px;
+}
+
+b{
+    font-size: 28px;
+}
+.read-1:first-letter {
+color: blueviolet;
+font-size: 30px;
+}
+
+a{
+    text-decoration: none;
+}
